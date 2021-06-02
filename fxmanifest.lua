@@ -11,5 +11,6 @@ description 'LABRP Load Screen'
 
 files {
     'index.html',
-    'main.css'
+    'main.css',
+    'IMG1.png'
 }
